@@ -1,0 +1,16 @@
+img {border-radius:50%;}
+table{border-spacing:30px;}
+.qua{border: 1px solid black}
+body{
+    background-color: #eaf6f6;
+}
+hr{
+border-style: none;
+border-top-style: dotted;
+border-color: grey;
+border-width: 5px;
+width: 5%;
+}
+h1,h4{
+    color: 66bfbf;
+}
